@@ -1,17 +1,72 @@
-# 💫 About Me:
-🔭 I’m currently working on ReactJS<br>👯 I’m looking to collaborate on ReactJS and NextJS<br>🤝 I’m looking for help with TypeScript.<br>🌱 I’m currently learning TypeScript and NextJS<br>💬 Ask me about JavaScript and ReactJS<br>⚡ Fun fact: Every developer starts with "Hello World."
+# 👨‍💻 Shakeel ur Rehman — Frontend Developer | MSc CS @ TU Clausthal 🇩🇪
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shkeel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shakeel_70) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=70shakeel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=70shakeel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hallo! I'm **Shakeel ur Rehman**, a dedicated **Frontend Developer** with a strong background in building responsive, dynamic, and production-ready web applications. Currently pursuing my **MSc in Computer Science** at **Technische Universität Clausthal**, I'm actively seeking frontend roles in **Germany** where I can apply my technical expertise and grow alongside innovative teams.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=70shakeel&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Why Hire Me in Germany?
+
+✅ **Already in Germany** with valid residency and work rights  
+✅ **Industry experience**: Built real-world apps for logistics and inventory management  
+✅ **Tech-savvy**: Proficient in React, JavaScript, Tailwind, Redux, and more  
+✅ **Production-ready mindset**: I prioritize performance, clean code, and reusability  
+✅ **Cultural fit**: Adaptable, multilingual, and already integrated in German academic life  
+
+---
+
+## 💼 Real-World Projects I've Built
+
+🔹 **Trucking Company App (ByteMasters)**  
+Built invoice, reporting, and expense modules with a clean UI and PDF export support.
+
+🔹 **Inventory Dashboard (PIM System)**  
+Interactive charts (Recharts), filters, and real-time updates using Redux & Tailwind.
+
+🔹 **Responsive POS UI**  
+Custom POS interface optimized for both desktop and mobile using Ant Design + Tailwind.
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**  
+JavaScript · TypeScript · HTML · CSS
+
+**Frameworks/Libraries**  
+React · Next.js · Redux · Tailwind CSS · Ant Design · Recharts
+
+**Backend & DB (Intermediate)**  
+Node.js · Express.js · MongoDB · PostgreSQL
+
+**Tools & DevOps**  
+Git · GitHub · Jira · Vercel · Trello · VS Code
+
+---
+
+## 🎓 Education & Credentials
+
+🎓 **MSc Computer Science** – TU Clausthal *(Expected 2027)*  
+🎓 **BSc Computer Science** – COMSATS University Islamabad *(2020)*  
+🏅 **Meta Frontend Developer Certificate** – Coursera  
+📄 [Certificate Link](https://coursera.org/share/c3c56130cdd23043bcdfe8e0e427061b)
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=70shakeel&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=70shakeel&theme=dark&layout=compact&hide_border=false)
+
+---
+
+## 🤝 Let’s Connect
+
+📧 Email: [70shakeel@gmail.com](mailto:70shakeel@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/shkeel](https://linkedin.com/in/shkeel)  
+📍 Location: Clausthal-Zellerfeld, Germany
+
+---
+
+> 📌 *I am actively looking for working student, part-time, or full-time roles in frontend development (React, Next.js) in Germany. Let's build something amazing together!*
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=70shakeel&icon=0&color=0)
