@@ -1,6 +1,6 @@
-# 👨‍💻 Shakeel ur Rehman — Frontend Developer | MSc CS @ TU Clausthal 🇩🇪
+# 👨‍💻 Shakeel ur Rehman — Fullstack Developer | MSc CS @ TU Clausthal 🇩🇪
 
-Hallo! I'm **Shakeel ur Rehman**, a dedicated **Frontend Developer** with a strong background in building responsive, dynamic, and production-ready web applications. Currently pursuing my **MSc in Computer Science** at **Technische Universität Clausthal**, I'm actively seeking frontend roles in **Germany** where I can apply my technical expertise and grow alongside innovative teams.
+Hallo! I'm **Shakeel ur Rehman**, a dedicated **Fullstack Developer** with a strong background in building responsive, dynamic, and production-ready web applications. Currently pursuing my **MSc in Computer Science** at **Technische Universität Clausthal**, I'm actively seeking fullstack roles in **Germany** where I can apply my technical expertise and grow alongside innovative teams.
 
 ---
 
@@ -70,6 +70,6 @@ Git · GitHub · Jira · Vercel · Trello · VS Code
 
 ---
 
-> 📌 *I am actively looking for working student, part-time, or full-time roles in frontend development (React, Next.js) in Germany. Let's build something amazing together!*
+> 📌 *I am actively looking for working student, part-time, or full-time roles in fullstack development (React, Next.js) in Germany. Let's build something amazing together!*
 
 [![](https://visitcount.itsvg.in/api?id=70shakeel&icon=0&color=12)](https://visitcount.itsvg.in)
