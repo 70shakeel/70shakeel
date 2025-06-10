@@ -1,4 +1,4 @@
-👨‍💻 Shakeel ur Rehman — Fullstack Developer | AI-Powered Solutions 🚀
+👨‍💻 Muhammad Shakeel ur Rehman Tariq — Fullstack Developer | AI-Powered Solutions 🚀
 Hello! I'm Shakeel ur Rehman, a passionate Fullstack Developer with expertise in crafting responsive, scalable, and AI-driven web applications. Based in Belgium, I’m seeking full-time roles to bring my technical skills and innovative mindset to dynamic teams. Currently, I’m an AI Fullstack Developer at Snipe Solutions, leveraging tools like n8n, Supabase, and Lovable to build cutting-edge applications.
 
 🚀 Why Hire Me in Belgium?
