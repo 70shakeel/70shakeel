@@ -1,40 +1,90 @@
-👨‍💻 Muhammad Shakeel ur Rehman Tariq — Fullstack Developer | AI-Powered Solutions 🚀
-Hello! I'm Shakeel ur Rehman, a passionate Fullstack Developer with expertise in crafting responsive, scalable, and AI-driven web applications. Based in Belgium, I’m seeking full-time roles to bring my technical skills and innovative mindset to dynamic teams. Currently, I’m an AI Fullstack Developer at Snipe Solutions, leveraging tools like n8n, Supabase, and Lovable to build cutting-edge applications.
+👨‍💻 Muhammad Shakeel ur Rehman Tariq
+Fullstack Developer | AI-Powered Solutions Specialist | Based in Belgium 🚀  
+I’m a passionate Fullstack Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as an AI Fullstack Developer at Snipe Solutions, I leverage cutting-edge tools like n8n, Supabase, and Lovable to deliver innovative solutions. I’m actively seeking full-time opportunities in Belgium to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.  
 
-🚀 Why Hire Me in Belgium?
-✅ Based in Belgium with valid residency and work rights✅ Industry experience: Delivered production-ready apps for logistics, inventory, and real estate✅ AI-driven expertise: Proficient in integrating AI tools for automation and enhanced user experiences✅ Tech stack mastery: Skilled in React, Next.js, Tailwind, Supabase, n8n, and more✅ Team player: Collaborative, multilingual, and committed to clean code and performance  
+🚀 Why Hire Me?
+
+Based in Belgium: Valid residency and work rights.  
+Industry Experience: Delivered production-ready apps for logistics, inventory, and real estate.  
+AI-Driven Expertise: Skilled in integrating AI tools for automation and enhanced user experiences.  
+Tech Stack Mastery: Proficient in React, Next.js, Tailwind CSS, Supabase, n8n, and more.  
+Team Player: Collaborative, multilingual, and committed to performance-driven, maintainable code.
+
 
 💼 Current Role
-AI Fullstack Developer – Snipe Solutions (2024–Present)  
+AI Fullstack Developer – Snipe Solutions (2025–Present)  
 
-Developing fullstack applications using n8n, Supabase, and Lovable to automate workflows and enhance functionality.  
-Building AI-powered features, including chatbots and automation pipelines for real estate and logistics solutions.  
-Ensuring scalable, maintainable codebases with a focus on user experience and performance.
+Developing fullstack applications with n8n, Supabase, and Lovable to streamline workflows.  
+Building AI-powered features, including chatbots and automation pipelines for real estate and logistics.  
+Ensuring scalable, maintainable codebases with a focus on exceptional user experience and performance optimization.
 
 
-🛠️ Real-World Projects I've Built
-🔹 AI-Powered Real Estate Listing Platform (Snipe Solutions)Developed a fullstack application with an AI chatbot that generates property brochures and automates email outreach to banks for optimal financing options. Integrated Supabase for real-time data and n8n for workflow automation.
-🔹 Trucking Company App (ByteMasters)Built invoice, reporting, and expense modules with a clean UI and PDF export support using React and Tailwind.
-🔹 Inventory Dashboard (PIM System)Created interactive charts with Recharts, real-time filters, and state management using Redux and Tailwind CSS.
-🔹 Responsive POS UIDesigned a custom POS interface optimized for desktop and mobile using Ant Design and Tailwind CSS.
+🛠️ Real-World Projects
+🔹 AI-Powered Real Estate Listing Platform (Snipe Solutions)
+
+Built a fullstack app with an AI chatbot for generating property brochures and automating email outreach to banks for financing options.  
+Integrated Supabase for real-time data management and n8n for workflow automation.
+
+🔹 Trucking Company App (ByteMasters)
+
+Developed invoice, reporting, and expense modules with a sleek UI and PDF export functionality using React and Tailwind CSS.
+
+🔹 Inventory Dashboard (PIM System)
+
+Created interactive charts with Recharts, real-time filters, and state management using Redux and Tailwind CSS.
+
+🔹 Responsive POS UI
+
+Designed a custom POS interface optimized for desktop and mobile using Ant Design and Tailwind CSS.
+
 
 🧠 Tech Stack
-LanguagesJavaScript · TypeScript · HTML · CSS
-Frameworks/LibrariesReact · Next.js · Redux · Tailwind CSS · Ant Design · Recharts
-Backend & DBNode.js · Express.js · Supabase · MongoDB · PostgreSQL
-AI & Automationn8n · Lovable · AI Chatbot Integration
-Tools & DevOpsGit · GitHub · Jira · Vercel · Trello · VS Code
+
+
+
+Category
+Skills
+
+
+
+Languages
+JavaScript · TypeScript · HTML · CSS
+
+
+Frameworks/Libraries
+React · Next.js · Redux · Tailwind CSS · Ant Design · Recharts
+
+
+Backend & DB
+Node.js · Express.js · Supabase · MongoDB · PostgreSQL
+
+
+AI & Automation
+n8n · Lovable · AI Chatbot Integration
+
+
+Tools & DevOps
+Git · GitHub · Jira · Vercel · Trello · VS Code
+
+
+ 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=70shakeel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=70shakeel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=70shakeel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 🎓 Education & Credentials
-🎓 BSc Computer Science – COMSATS University Islamabad (2020)🏅 Meta Frontend Developer Certificate – Coursera📄 Certificate Link
 
-📊 GitHub Activity
+MSc Computer Science – TU Clausthal, Germany (Expected 2027)  
+BSc Computer Science – COMSATS University Islamabad (2020)  
+Meta Frontend Developer Certificate – Coursera (View Certificate)
 
 
 🤝 Let’s Connect
-📧 Email: 70shakeel@gmail.com🌐 LinkedIn: linkedin.com/in/shkeel📍 Location: Belgium
 
+Email: 70shakeel@gmail.com  
+LinkedIn: linkedin.com/in/shkeel  
+Location: Belgium
 
-📌 I’m actively seeking full-time fullstack development roles (React, Next.js, AI-driven solutions) in Belgium. Let’s create innovative, scalable applications together!
-
+📌 I’m actively seeking full-time Fullstack Developer roles in Belgium (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
 
