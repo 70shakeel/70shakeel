@@ -68,7 +68,8 @@ Git · GitHub · Jira · Vercel · Trello · VS Code
 
 
  📊 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=70shakeel" alt="GitHub Streak" /></a>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=70shakeel&theme=dark&hide_border=false)
 
 
 🎓 Education & Credentials
