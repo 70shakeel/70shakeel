@@ -46,7 +46,7 @@ I’m a passionate Fullstack Developer with a knack for building responsive, sca
 ## 🎓 Education & Credentials
 - **MSc Computer Science** – TU Clausthal, Germany (Expected 2027)
 - **BSc Computer Science** – COMSATS University Islamabad (2020)
-- **Meta Frontend Developer Certificate** – Coursera ([View Certificate]([https://www.coursera.org](https://www.coursera.org/account/accomplishments/verify/8K9CKZ78NWMP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)))
+- **Meta Frontend Developer Certificate** – Coursera ([View Certificate](https://coursera.org/share/c3c56130cdd23043bcdfe8e0e427061b)
 
 ## 🤝 Let’s Connect
 - **Email**: 70shakeel@gmail.com
