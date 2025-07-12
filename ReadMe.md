@@ -1,9 +1,7 @@
-
-
 ## 👨‍💻 Muhammad Shakeel ur Rehman Tariq
 **Fullstack Developer | AI-Powered Solutions Specialist | Based in Germany 🚀**
 
-I’m a passionate Fullstack Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as an AI Fullstack Developer at Snipe Solutions, I leverage cutting-edge tools like n8n, Supabase, and Lovable to deliver innovative solutions. I’m actively seeking full-time opportunities in Germany to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.
+I’m a passionate Fullstack Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as an AI Fullstack Developer at Snipe Solutions, I leverage cutting-edge tools like n8n, Supabase, and Lovable to deliver innovative solutions. I’m actively seeking full-time and working student opportunities in Germany to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.
 
 ## 🚀 Why Hire Me?
 - **Based in Germany**: Valid residency and work rights.
@@ -55,5 +53,4 @@ I’m a passionate Fullstack Developer with a knack for building responsive, sca
 - **LinkedIn**: [linkedin.com/in/shkeel](https://linkedin.com/in/shkeel)
 - **Location**: Germany
 
-📌 I’m actively seeking full-time Fullstack Developer roles in Germany (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
-
+📌 I’m actively seeking full-time and working student Fullstack Developer roles in Germany (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
