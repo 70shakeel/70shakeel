@@ -1,89 +1,55 @@
-👨‍💻 Muhammad Shakeel ur Rehman Tariq
-Fullstack Developer | AI-Powered Solutions Specialist | Based in Belgium 🚀  
-I’m a passionate Fullstack Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as an AI Fullstack Developer at Snipe Solutions, I leverage cutting-edge tools like n8n, Supabase, and Lovable to deliver innovative solutions. I’m actively seeking full-time opportunities in Belgium to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.  
+# 👨‍💻 Shakeel ur Rehman — Fullstack Developer | MSc CS @ TU Clausthal 🇩🇪
 
-🚀 Why Hire Me?
+Hallo! I'm **Shakeel ur Rehman**, a dedicated **Fullstack Developer** with a strong background in building responsive, dynamic, and production-ready web applications. Currently pursuing my **MSc in Computer Science** at **Technische Universität Clausthal**, I'm actively seeking fullstack roles in **Germany** where I can apply my technical expertise and grow alongside innovative teams.
 
-Based in Belgium: Valid residency and work rights.  
-Industry Experience: Delivered production-ready apps for logistics, inventory, and real estate.  
-AI-Driven Expertise: Skilled in integrating AI tools for automation and enhanced user experiences.  
-Tech Stack Mastery: Proficient in React, Next.js, Tailwind CSS, Supabase, n8n, and more.  
-Team Player: Collaborative, multilingual, and committed to performance-driven, maintainable code.
+---
 
+## 🚀 Why Hire Me in Germany?
 
-💼 Current Role
-AI Fullstack Developer – Snipe Solutions (2025–Present)  
+✅ **Already in Germany** with valid residency and work rights  
+✅ **Industry experience**: Built real-world apps for logistics and inventory management  
+✅ **Tech-savvy**: Proficient in React, JavaScript, Tailwind, Redux, and more  
+✅ **Production-ready mindset**: I prioritize performance, clean code, and reusability  
+✅ **Cultural fit**: Adaptable, multilingual, and already integrated in German academic life  
 
-Developing fullstack applications with n8n, Supabase, and Lovable to streamline workflows.  
-Building AI-powered features, including chatbots and automation pipelines for real estate and logistics.  
-Ensuring scalable, maintainable codebases with a focus on exceptional user experience and performance optimization.
+---
 
+## 💼 Real-World Projects I've Built
 
-🛠️ Real-World Projects
-🔹 AI-Powered Real Estate Listing Platform (Snipe Solutions)
+🔹 **Trucking Company App (ByteMasters)**  
+Built invoice, reporting, and expense modules with a clean UI and PDF export support.
 
-Built a fullstack app with an AI chatbot for generating property brochures and automating email outreach to banks for financing options.  
-Integrated Supabase for real-time data management and n8n for workflow automation.
+🔹 **Inventory Dashboard (PIM System)**  
+Interactive charts (Recharts), filters, and real-time updates using Redux & Tailwind.
 
-🔹 Trucking Company App (ByteMasters)
+🔹 **Responsive POS UI**  
+Custom POS interface optimized for both desktop and mobile using Ant Design + Tailwind.
 
-Developed invoice, reporting, and expense modules with a sleek UI and PDF export functionality using React and Tailwind CSS.
+@@ -49,27 +49,27 @@
+🎓 **BSc Computer Science** – COMSATS University Islamabad *(2020)*  
+🏅 **Meta Frontend Developer Certificate** – Coursera  
+📄 [Certificate Link](https://coursera.org/share/c3c56130cdd23043bcdfe8e0e427061b)
 
-🔹 Inventory Dashboard (PIM System)
+---
 
-Created interactive charts with Recharts, real-time filters, and state management using Redux and Tailwind CSS.
+## 📊 GitHub Activity
 
-🔹 Responsive POS UI
-
-Designed a custom POS interface optimized for desktop and mobile using Ant Design and Tailwind CSS.
-
-
-🧠 Tech Stack
+![](https://github-readme-streak-stats.herokuapp.com/?user=70shakeel&theme=dark&hide_border=false)<br/>
 
 
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=70shakeel&theme=dark&layout=compact&hide_border=false)
 
-Category
-Skills
+---
 
+## 🤝 Let’s Connect
 
+📧 Email: [70shakeel@gmail.com](mailto:70shakeel@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/shkeel](https://linkedin.com/in/shkeel)  
+📍 Location: Braunschweig, Germany
 
-Languages
-JavaScript · TypeScript · HTML · CSS
+---
 
+> 📌 *I am actively looking for working student, part-time, or full-time roles in fullstack development (React, Next.js) in Germany. Let's build something amazing together!*
 
-Frameworks/Libraries
-React · Next.js · Redux · Tailwind CSS · Ant Design · Recharts
-
-
-Backend & DB
-Node.js · Express.js · Supabase · MongoDB · PostgreSQL
-
-
-AI & Automation
-n8n · Lovable · AI Chatbot Integration
-
-
-Tools & DevOps
-Git · GitHub · Jira · Vercel · Trello · VS Code
-
-
- 📊 GitHub Stats
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=70shakeel&theme=dark)](https://git.io/streak-stats)
-
-
-🎓 Education & Credentials
-
-MSc Computer Science – TU Clausthal, Germany (Expected 2027)  
-BSc Computer Science – COMSATS University Islamabad (2020)  
-Meta Frontend Developer Certificate – Coursera (View Certificate)
-
-
-🤝 Let’s Connect
-
-Email: 70shakeel@gmail.com  
-LinkedIn: linkedin.com/in/shkeel  
-Location: Belgium
-
-📌 I’m actively seeking full-time Fullstack Developer roles in Belgium (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
-
+[![](https://visitcount.itsvg.in/api?id=70shakeel&icon=0&color=12)](https://visitcount.itsvg.in)
