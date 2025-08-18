@@ -1,7 +1,7 @@
 ## 👨‍💻 Muhammad Shakeel ur Rehman Tariq
-**Fullstack Developer | AI-Powered Solutions Specialist | Based in Germany 🚀**
+**Frontend Developer | AI-Powered Solutions Specialist | Based in Germany 🚀**
 
-I’m a passionate Fullstack Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as an AI Fullstack Developer at Snipe Solutions, I leverage cutting-edge tools like n8n, Supabase, and Lovable to deliver innovative solutions. I’m actively seeking full-time and working student opportunities in Germany to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.
+I’m a passionate Frontend Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as a Frontend Developer at Snipe Solutions GMBH, I leverage cutting-edge tools like ReactJS, NextJS, Tailwind CSS, JavaScript, Supabase, etc. to deliver innovative solutions. I’m actively seeking full-time and working student opportunities in Germany to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.
 
 ## 🚀 Why Hire Me?
 - **Based in Germany**: Valid residency and work rights.
@@ -11,7 +11,7 @@ I’m a passionate Fullstack Developer with a knack for building responsive, sca
 - **Team Player**: Collaborative, multilingual, and committed to performance-driven, maintainable code.
 
 ## 💼 Current Role
-**AI Fullstack Developer – Snipe Solutions (2025–Present)**  
+**Frontend Developer – Snipe Solutions (2025–Present)**  
 - Developing fullstack applications with n8n, Supabase, and Lovable to streamline workflows.
 - Building AI-powered features, including chatbots and automation pipelines for real estate and logistics.
 - Ensuring scalable, maintainable codebases with a focus on exceptional user experience and performance optimization.
@@ -51,6 +51,6 @@ I’m a passionate Fullstack Developer with a knack for building responsive, sca
 ## 🤝 Let’s Connect
 - **Email**: 70shakeel@gmail.com
 - **LinkedIn**: [linkedin.com/in/shkeel](https://linkedin.com/in/shkeel)
-- **Location**: Germany
+- **Location**: Bruanschweig, Germany
 
-📌 I’m actively seeking full-time and working student Fullstack Developer roles in Germany (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
+📌 I’m actively seeking full-time and working student Frontend Developer roles in Germany (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
