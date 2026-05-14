@@ -41,7 +41,7 @@ I’m a passionate Frontend Developer with a knack for building responsive, scal
 | **Tools & DevOps**  | Git · GitHub · Jira · Vercel · Trello · VS Code                     |
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=70shakeel&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=70shakeel&theme=dark)](https://git.io/streak-stats&cache_seconds=0)
 
 ## 🎓 Education & Credentials
 - **MSc Computer Science** – TU Clausthal, Germany (Expected 2027)
