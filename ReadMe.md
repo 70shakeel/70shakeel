@@ -1,56 +1,55 @@
-## 👨‍💻 Muhammad Shakeel ur Rehman Tariq
-**Frontend Developer | AI-Powered Solutions Specialist | Based in Germany 🚀**
+## 🧑‍💻 Muhammad Shakeel ur Rehman Tariq
+**AI Automation Developer | Full Stack Developer | Based in Germany 🇩🇪**
 
-I’m a passionate Frontend Developer with a knack for building responsive, scalable, and AI-driven web applications. Currently thriving as a Frontend Developer at Snipe Solutions GMBH, I leverage cutting-edge tools like ReactJS, NextJS, Tailwind CSS, JavaScript, Supabase, etc. to deliver innovative solutions. I’m actively seeking full-time and working student opportunities in Germany to bring my technical expertise, collaborative spirit, and clean-code philosophy to dynamic teams.
+I'm an AI Automation Specialist and Full Stack Developer with 3+ years of frontend experience. Currently focused on building AI-driven automation workflows using Microsoft Power Automate, n8n, and Dynamics 365 to streamline business operations. I combine this with deep expertise in React, Next.js, TypeScript, and Supabase to deliver scalable, production-ready applications.
 
 ## 🚀 Why Hire Me?
 - **Based in Germany**: Valid residency and work rights.
-- **Industry Experience**: Delivered production-ready apps for logistics, inventory, and real estate.
-- **AI-Driven Expertise**: Skilled in integrating AI tools for automation and enhanced user experiences.
-- **Tech Stack Mastery**: Proficient in React, Next.js, Tailwind CSS, Supabase, n8n, and more.
+- **AI Automation Expert**: Hands-on experience with n8n, Microsoft Power Automate, Dynamics 365, and AI Agents.
+- **Full Stack Proficiency**: React, Next.js, TypeScript, Supabase, Tailwind CSS, and more.
+- **Business Impact**: Delivered automation and web solutions for real estate, logistics, and industrial clients.
 - **Team Player**: Collaborative, multilingual, and committed to performance-driven, maintainable code.
 
 ## 💼 Current Role
-**Frontend Developer – Snipe Solutions (2025–Present)**  
-- Developing fullstack applications with n8n, Supabase, and Lovable to streamline workflows.
-- Building AI-powered features, including chatbots and automation pipelines for real estate and logistics.
-- Ensuring scalable, maintainable codebases with a focus on exceptional user experience and performance optimization.
+**AI Automation Developer – Jäger Gummi und Kunststoff GmbH (Dec 2025–Present)**
+- Creating AI automations for business processes using Microsoft Dynamics 365, Power Automate, Outlook, and Teams.
+- Streamlining internal workflows to reduce manual overhead and improve operational efficiency.
 
-## 🛠️ Real-World Projects
-- **AI-Powered Real Estate Listing Platform (Snipe Solutions)**  
-  - Built a fullstack app with an AI chatbot for generating property brochures and automating email outreach to banks for financing options.
-  - Integrated Supabase for real-time data management and n8n for workflow automation.
+## 🛠️ Experience
+**Full Stack Developer – SNIPE Solutions (Jun 2025 – Nov 2025)**
+- Developed full-stack applications integrating AI to formulate solutions for end users.
 
-- **Trucking Company App (ByteMasters)**  
-  - Developed invoice, reporting, and expense modules with a sleek UI and PDF export functionality using React and Tailwind CSS.
+**Frontend Developer – Bytemasters (May 2022 – Jun 2025)**
+- Built and maintained React-based web applications with performance optimization (lazy loading, code splitting).
+- Implemented mobile-first UIs using Tailwind CSS.
 
-- **Inventory Dashboard (PIM System)**  
-  - Created interactive charts with Recharts, real-time filters, and state management using Redux and Tailwind CSS.
+**Frontend Developer – Zeptosol (May 2020 – Feb 2022)**
+- Implemented user interfaces and developed new features for web applications.
 
-- **Responsive POS UI**  
-  - Designed a custom POS interface optimized for desktop and mobile using Ant Design and Tailwind CSS.
+**Internee Web Developer – National Information Technology Board, NITB (Jun 2019 – Nov 2019)**
+- Assisted in the development and maintenance of the Pakistan Citizen Portal.
 
-## 🧠 Tech Stack
+## 🎓 Education
+- **M.Sc. Computer Science** – Technische Universität Clausthal (Apr 2025 – Apr 2027)
+- **B.Sc. Computer Science** – COMSATS University (2014 – 2020)
 
-| Category            | Skills                                                                 |
-|---------------------|----------------------------------------------------------------------|
-| **Languages**       | JavaScript · TypeScript · HTML · CSS                                 |
-| **Frameworks/Libraries** | React · Next.js · Redux · Tailwind CSS · Ant Design · Recharts |
-| **Backend & DB**    | Node.js · Express.js · Supabase · MongoDB · PostgreSQL               |
-| **AI & Automation** | n8n · Lovable · AI Chatbot Integration                              |
-| **Tools & DevOps**  | Git · GitHub · Jira · Vercel · Trello · VS Code                     |
+## 🧰 Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/-Power_Automate-0066FF?style=flat&logo=microsoft-power-automate&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=70shakeel&theme=dark)](https://git.io/streak-stats)
+## 📜 Certifications
+- **5-Day AI Agents Intensive Course with Google** – Kaggle (Dec 2025)
+- **AI For Everyone** – DeepLearning.AI (Oct 2019)
 
-## 🎓 Education & Credentials
-- **MSc Computer Science** – TU Clausthal, Germany (Expected 2027)
-- **BSc Computer Science** – COMSATS University Islamabad (2020)
-- **Meta Frontend Developer Certificate** – Coursera ([View Certificate](https://coursera.org/share/c3c56130cdd23043bcdfe8e0e427061b))
-
-## 🤝 Let’s Connect
-- **Email**: 70shakeel@gmail.com
-- **LinkedIn**: [linkedin.com/in/shkeel](https://linkedin.com/in/shkeel)
-- **Location**: Bruanschweig, Germany
-
-📌 I’m actively seeking full-time and working student Frontend Developer roles in Germany (React, Next.js, AI-driven solutions). Let’s collaborate to build innovative, scalable applications that make an impact!
+## 📬 Connect With Me
+- 🌐 Portfolio: [shakeel-ai-portfolio.vercel.app](https://shakeel-ai-portfolio.vercel.app/)
+- 💼 LinkedIn: [linkedin.com/in/shkeel](https://linkedin.com/in/shkeel)
+- 🐦 Twitter/X: [@shakeel_70](https://twitter.com/shakeel_70)
+- 📧 Email: 70shakeel@gmail.com
